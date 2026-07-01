@@ -10,7 +10,6 @@ Project Overview
 This project presents a structured Vulnerability Assessment and Penetration Testing (VAPT) exercise conducted on a controlled virtual machine environment. The objective was to analyze system security, identify vulnerabilities across network and application layers, and document findings with remediation strategies.
 
 Objectives
-
 Perform reconnaissance and network-level analysis of the target system
 
 Identify exposed services and potential vulnerabilities
